@@ -1,0 +1,23 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "status": "ok",
+      "messages": [],
+      "result": [
+        {
+          "id": "C-CBW-19",
+          "calendar_code": "C-CBW",
+          "year_code": "19",
+          "title": "High-Throughput Biology: From Sequence to Networks",
+          "start_date": "2019-03-11",
+          "end_date": "2019-03-17",
+          "organizers": "<p><span style=\"font-weight: bold;\">Francis Ouellette<\/span>, Bioinformatics.ca<br><span style=\"font-weight: bold;\">Ann Meyer<\/span>, Ontario Institute for Cancer Research<\/p>",
+          "abstracts_deadline": "2019-01-15",
+          "categories": "",
+          "application_url": "https://meetings.cshl.edu/coursesapplication.aspx?course=C-CBW&year=19"
+        }
+      ]
+    }
+  ]
+}
